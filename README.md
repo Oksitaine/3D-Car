@@ -6,6 +6,8 @@ Before starting, this project is inspired by the incredible work of [LUSION](htt
 
 And a big thank you to Domenicobrz for his [tutorial](https://www.youtube.com/watch?v=lcMCVWYpnrI&t=1s) which allows to start and understand the beginning of the project : [Twitter](https://twitter.com/Domenico_brz) / [Youtube](https://www.youtube.com/@irradiance730)
 
+Git of Domenicobrz for it's car : [Git](https://github.com/Domenicobrz/R3F-in-practice/tree/main/car-show)
+
 After his video, I plan to add more options to make the project more interactive so don't hesitate to follow me on [twitter](https://twitter.com/Azdinmediri) 
 
 ## Getting Started
