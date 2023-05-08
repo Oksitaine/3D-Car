@@ -78,7 +78,7 @@ export function Ground({ Speed, Leva })
 
 export function Car({ Speed })
 {
-    const gltf = useGLTF("./models/car/scene.gltf")
+    const gltf = useGLTF("./models/car/scene-transformed.glb")
 
     useEffect(() =>
     {
